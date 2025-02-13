@@ -46,3 +46,14 @@ In This task i need to deploy an cloud based application or and web application 
    -  metrics -> EC2 -> pre instance metrics
    -  select the metrics you need to monitor like Ebs write , network out , network in
    -  we could able to see the graph for the selected metrics 
+4. Dashboards:
+   - The dashboards are part of the Cloudwatch
+   - These are used for create an dashboard that contains all the information that is assosated with your applications
+   - These are centerlized monitoring for all your application
+   - To create an dashboard navigate to cloud watch
+   - Dashboards -> create an dashboard
+   - Give an name to the dashboard
+   - select data source type (Cloud watch) , data type (metrics) , widget type (any)
+   - select the type of services you want to monitor like EC2,EBS,SNS
+   - I am creating an dashboard for some types for types EC2 -> pre-instance metrics -> select the metrics to be monitoring
+   - 
