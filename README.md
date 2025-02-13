@@ -30,3 +30,12 @@ In This task i need to deploy an cloud based application or and web application 
    - go to advance settings
    - get to user data - optional and add the code for the instance
    - [user data](user_data)
+   - create the instance
+2. For alarms :
+   - go to the cloud watch -> alarms -> create alarm
+   - enter the conditions for the alarms
+   - enter the threshold  value
+   - next -> ec2 actions -> stop this instance
+   - this will stop this instance when the threshold value is hit
+   - next -> review and create -> create alarm
+   - [ALARM](EC2_alarm)
