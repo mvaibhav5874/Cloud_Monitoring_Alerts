@@ -57,4 +57,4 @@ In This task i need to deploy an cloud based application or and web application 
    - select the type of services you want to monitor like EC2,EBS,SNS
    - I am creating an dashboard for some types for types EC2 -> pre-instance metrics -> select the metrics to be monitoring
    - This will make an centrelized place to monitor the application
-     <img src="Dashboard.png" height="400" wdith="600" >
+     <img src="Dashboard.png" height="500" wdith="800" >
