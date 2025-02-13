@@ -19,4 +19,11 @@ CLOUDWATCH.
 ### Description :
 In This task i need to deploy an cloud based application or and web application connected to multiple services provided by the CSP (AWS)
 
-###
+### procedure:
+1. Create an EC2 instance :
+   - Create an basic instance of an aws amazon linux
+   - select the amazon linux ami
+   - select t2 micro for the basic web applications or applications
+   - select an key pair
+   - configure the networ settings
+   - allow http trafic
