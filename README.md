@@ -38,4 +38,11 @@ In This task i need to deploy an cloud based application or and web application 
    - next -> ec2 actions -> stop this instance
    - this will stop this instance when the threshold value is hit
    - next -> review and create -> create alarm
-   - [ALARM](EC2_alarm)
+   - [ALARM](EC2_alarm.png)
+3. For Monitoring :
+   - for monitoring an application if we have deployed multiple instances and have multiple services assoated with them we use cloud watch metrics
+   - we can access metrics of all services
+   - for the launched instances now go to EC2
+   -  metrics -> EC2 -> pre instance metrics
+   -  select the metrics you need to monitor like Ebs write , network out , network in
+   -  we could able to see the graph for the selected metrics 
