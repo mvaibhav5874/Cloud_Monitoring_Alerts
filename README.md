@@ -26,4 +26,7 @@ In This task i need to deploy an cloud based application or and web application 
    - select t2 micro for the basic web applications or applications
    - select an key pair
    - configure the networ settings
-   - allow http trafic
+   - allow http trafic as it is an web application
+   - go to advance settings
+   - get to user data - optional and add the code for the instance
+   - [user data](user_data)
