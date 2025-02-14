@@ -16,10 +16,10 @@
 SET UP MONITORING FOR A CLOUDBASED APPLICATION USING AWS
 CLOUDWATCH.
 
-### Description :
+## Description :
 In This task i need to deploy an cloud based application or and web application connected to multiple services provided by the CSP (AWS)
 
-### procedure:
+## procedure:
 1. Create an EC2 instance :
    - Create an basic instance of an aws amazon linux
    - select the amazon linux ami
@@ -61,3 +61,9 @@ In This task i need to deploy an cloud based application or and web application 
   
    
      <img src="Dashboard.png" height="500" wdith="800" >
+     
+## Theory : 
+   ### EC2 : 
+<p align = "justify">
+The Amazon Web Services (AWS) Cloud, Amazon Elastic Compute Cloud (Amazon EC2) offers scalable, on-demand processing power. Because Amazon EC2 lowers hardware expenses, you can create and launch apps more quickly. With Amazon EC2, you can set up networking and security, control storage, and launch as many or as few virtual servers as you require. To manage compute-intensive jobs, including monthly or annual procedures or surges in website traffic, you can scale up (increase capacity). You can scale down (lower capacity) if usage starts to decline. A virtual server in the AWS Cloud is called an EC2 instance. The hardware that is available to your instance depends on the instance type you pick when you launch an EC2 instance.
+</p> 
