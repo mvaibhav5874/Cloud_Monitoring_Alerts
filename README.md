@@ -38,7 +38,8 @@ In This task i need to deploy an cloud based application or and web application 
    - next -> ec2 actions -> stop this instance
    - this will stop this instance when the threshold value is hit
    - next -> review and create -> create alarm
-   - [ALARM](EC2_alarm.png)
+   
+   <img src="EC2_alarm.png" height="500" wdith="800" >
 3. For Monitoring :
    - for monitoring an application if we have deployed multiple instances and have multiple services assoated with them we use cloud watch metrics
    - we can access metrics of all services
@@ -57,4 +58,6 @@ In This task i need to deploy an cloud based application or and web application 
    - select the type of services you want to monitor like EC2,EBS,SNS
    - I am creating an dashboard for some types for types EC2 -> pre-instance metrics -> select the metrics to be monitoring
    - This will make an centrelized place to monitor the application
+  
+   
      <img src="Dashboard.png" height="500" wdith="800" >
