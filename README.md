@@ -46,7 +46,9 @@ In This task i need to deploy an cloud based application or and web application 
    - for the launched instances now go to EC2
    -  metrics -> EC2 -> pre instance metrics
    -  select the metrics you need to monitor like Ebs write , network out , network in
-   -  we could able to see the graph for the selected metrics 
+   -  we could able to see the graph for the selected metrics
+
+   <img src="AWS_metrics.png" height="550" wdith="700" > 
 4. Dashboards:
    - The dashboards are part of the Cloudwatch
    - These are used for create an dashboard that contains all the information that is assosated with your applications
