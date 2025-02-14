@@ -39,7 +39,7 @@ In This task i need to deploy an cloud based application or and web application 
    - this will stop this instance when the threshold value is hit
    - next -> review and create -> create alarm
    
-   <img src="EC2_alarm.png" height="450" wdith="600" >
+   <img src="Alarm.png" height="450" wdith="600" >
 3. For Monitoring :
    - for monitoring an application if we have deployed multiple instances and have multiple services assoated with them we use cloud watch metrics
    - we can access metrics of all services
