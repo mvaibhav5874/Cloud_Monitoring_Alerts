@@ -26,7 +26,8 @@ In This task i need to deploy an cloud based application or and web application 
    - next -> ec2 actions -> stop this instance
    - this will stop this instance when the threshold value is hit
    - next -> review and create -> create alarm
-   
+
+         
    <img src="Alarm.png" height="450" wdith="600" >
 3. For Monitoring :
    - for monitoring an application if we have deployed multiple instances and have multiple services assoated with them we use cloud watch metrics
@@ -35,6 +36,7 @@ In This task i need to deploy an cloud based application or and web application 
    -  metrics -> EC2 -> pre instance metrics
    -  select the metrics you need to monitor like Ebs write , network out , network in
    -  we could able to see the graph for the selected metrics
+
 
    <img src="AWS_metrics.png" height="550" wdith="700" > 
 4. Dashboards:
@@ -49,8 +51,9 @@ In This task i need to deploy an cloud based application or and web application 
    - I am creating an dashboard for some types for types EC2 -> pre-instance metrics -> select the metrics to be monitoring
    - This will make an centrelized place to monitor the application
   
-   
-     <img src="Dashboard.png" height="500" wdith="800" >
+
+
+   <img src="Dashboard.png" height="500" wdith="800" >
      
 ## Theory : 
 ### EC2 : 
